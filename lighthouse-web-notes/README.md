@@ -8,9 +8,15 @@ This repository contains all of the notes taken by [Charley Smith-Schofield](htt
 ### Table of Contents
 
 * [Week 1](/Week_1/)
- * [Day 1](/Week_1/Day_1)
- 
-* [AI](/AI)
 
-* [Command_Line_Args](/commandLineArgsNotes.js)
+  * [Day 1](/Week_1/Day_1)
+
+  *[Template Literals](/Template_Literals)
+
+  *[Command_Line_Args](/commandLineArgsNotes.js)
+
+  *[Function_Best_Practices](/Function_Best_Practices/functionBestPractices.js)
+
+
+
 
